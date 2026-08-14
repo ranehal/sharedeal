@@ -1,0 +1,6 @@
+*.har
+scratch/
+*.pyc
+__pycache__/
+.DS_Store
+PROMPT.md
