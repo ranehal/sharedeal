@@ -67,13 +67,6 @@
       "image": "https://sharedealnow.com/storage/583/breakfast%5B1%5D"
     },
     {
-      "id": 33,
-      "name": "Dates & Nuts",
-      "slug": "dates-nuts",
-      "featured": "1",
-      "image": "https://sharedealnow.com/storage/617/Combo2%5B1%5D.jpg"
-    },
-    {
       "id": 35,
       "name": "Khan Rice",
       "slug": "khan-rice",
@@ -93,6 +86,27 @@
       "slug": "fresh-fortified-oil",
       "featured": "0",
       "image": "https://sharedealnow.com/storage/1132/Fresh-Soyabean-oil.png"
+    },
+    {
+      "id": 38,
+      "name": "Root Vegetables",
+      "slug": "root-vegetables",
+      "featured": "0",
+      "image": ""
+    },
+    {
+      "id": 39,
+      "name": "pantry",
+      "slug": "pantry",
+      "featured": "0",
+      "image": ""
+    },
+    {
+      "id": 40,
+      "name": "Dried Fruits",
+      "slug": "dried-fruits",
+      "featured": "0",
+      "image": ""
     }
   ],
   "products": {
@@ -4203,7 +4217,7 @@
       "name": "Premium Peyaj - Per KG",
       "slug": "premium-peyaj-per-kg",
       "sku": "mkQUWMsG",
-      "category_id": "4",
+      "category_id": "38",
       "category": "Fresh Vegetables",
       "unit": "KG",
       "volume": "1",
@@ -4341,7 +4355,7 @@
           "price": 65.0,
           "offer": 50.0,
           "group": 45.0,
-          "stock": 1121.0
+          "stock": 1115.0
         }
       ]
     },
@@ -4350,10 +4364,10 @@
       "name": "Deshi Moshur Dal Loose Premium 1 Kg",
       "slug": "deshi-moshur-dal-loose-premium-1-kg",
       "sku": "CE9Q3Wlg",
-      "category_id": "5",
+      "category_id": "39",
       "category": "Cooking",
       "unit": "KG",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/604/65fa94e9115075f231ec5687_Deshi-Moshur-Dal-Loose_1.webp",
       "best_selling": "0",
       "history": [
@@ -4791,7 +4805,7 @@
       "name": "Chola Boot (ছোলা বুট) Per KG",
       "slug": "chola-boot-chola-but-per-kg",
       "sku": "yATdEgwd",
-      "category_id": "4",
+      "category_id": "39",
       "category": "Fresh Vegetables",
       "unit": "KG",
       "volume": "1",
@@ -4882,7 +4896,7 @@
       "name": "Regular Alu per Kg",
       "slug": "regular-alu-per-kg",
       "sku": "oAGHBm9E",
-      "category_id": "4",
+      "category_id": "38",
       "category": "Fresh Vegetables",
       "unit": "KG",
       "volume": "1",
@@ -5020,7 +5034,7 @@
           "price": 32.0,
           "offer": 26.0,
           "group": 20.0,
-          "stock": 1084.0
+          "stock": 1044.0
         }
       ]
     },
@@ -5911,8 +5925,8 @@
       "name": "Anchor Boot Dal (এঙ্কর ডাল) Per KG",
       "slug": "anchor-boot-dal-enkr-dal-per-kg",
       "sku": "cIco7MlI",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "39",
+      "category": "pantry",
       "unit": "KG",
       "volume": "100",
       "image": "https://sharedealnow.com/storage/531/Anchor-Boot-Dal-Per-KG.png",
@@ -6394,8 +6408,8 @@
       "name": "ACI Nutrilife Brown Flour (Atta) 2KG",
       "slug": "aci-nutrilife-brown-flour-atta-2kg",
       "sku": "Bn4yCuxT",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "39",
+      "category": "pantry",
       "unit": "KG",
       "volume": "2",
       "image": "https://sharedealnow.com/storage/863/converted-512x512-%2814%29.png",
@@ -14738,8 +14752,8 @@
       "name": "Anchor Boot Dal (এঙ্কর ডাল) 500gm",
       "slug": "anchor-boot-dal-enkr-dal-500gm",
       "sku": "LeWTkSKH",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "39",
+      "category": "pantry",
       "unit": "Piece",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/532/Anchor-Boot-Dal-Per-KG.png",
@@ -15709,7 +15723,7 @@
           "price": 60.0,
           "offer": 55.0,
           "group": null,
-          "stock": 1001.0
+          "stock": 1000.0
         }
       ]
     },
@@ -16559,7 +16573,7 @@
       "slug": "fresh-fortified-soyabean-oil-5-liter",
       "sku": "zjGXoYdq",
       "category_id": "37",
-      "category": "Cooking",
+      "category": "Fresh Fortified Oil",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/501/fresh-fortified-soyabean-oil-5-ltr-%281%29.jpg",
@@ -18938,8 +18952,8 @@
       "name": "Fresh Refined Sugar Per KG",
       "slug": "fresh-refined-sugar-per-kg",
       "sku": "CVOXuoZJ",
-      "category_id": "24",
-      "category": "Beverages",
+      "category_id": "39",
+      "category": "pantry",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/446/fresh-refined-sugar-1-kg.jpg",
@@ -19498,10 +19512,10 @@
       "name": "Peanut Peeled (Vaja Cheena Badam) Loose 100g",
       "slug": "peanut-peeled-vaja-cheena-badam-loose-100g",
       "sku": "txBCqca7",
-      "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category_id": "40",
+      "category": "Dried Fruits",
       "unit": "Piece",
-      "volume": "0",
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/419/PEANUT-SMALL-%E0%A6%9A%E0%A7%80%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%AE-%E0%A6%9B%E0%A7%8B%E0%A6%9F.jpg",
       "best_selling": "0",
       "history": [
@@ -20723,10 +20737,10 @@
       "name": "Pumpkin Seed (কুমড়ার বীজ)",
       "slug": "pumpkin-seed-kumdar-beej",
       "sku": "xKw3hJpt",
-      "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category_id": "40",
+      "category": "Dried Fruits",
       "unit": "KG",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/343/1000044375.png",
       "best_selling": "0",
       "history": [
@@ -20863,10 +20877,10 @@
       "name": "Roasted Cashew Nut (ভাজা কাজু বাদাম)",
       "slug": "roasted-cashew-nut-vaja-kaju-badam",
       "sku": "Ra2UAnQF",
-      "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category_id": "40",
+      "category": "Dried Fruits",
       "unit": "KG",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/342/1000044373.png",
       "best_selling": "0",
       "history": [
@@ -22543,8 +22557,8 @@
       "name": "Ada (Imported Ginger) 250gm",
       "slug": "ada-imported-ginger-250gm",
       "sku": "b4smHmGF",
-      "category_id": "4",
-      "category": "Fresh Vegetables",
+      "category_id": "38",
+      "category": "Root Vegetables",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1030/WhatsApp-Image-2026-08-16-at-4.03.36-PM-%281%29.jpg",
@@ -22814,7 +22828,7 @@
           "price": 75.0,
           "offer": 67.0,
           "group": null,
-          "stock": 1002.0
+          "stock": 1001.0
         }
       ]
     },
@@ -25894,7 +25908,7 @@
           "price": 35.0,
           "offer": 33.0,
           "group": null,
-          "stock": 1001.0
+          "stock": 1000.0
         }
       ]
     },
@@ -30803,8 +30817,8 @@
       "name": "Desi Roshun Per KG",
       "slug": "desi-roshun-per-kg",
       "sku": "3lczGb3t",
-      "category_id": "4",
-      "category": "Fresh Vegetables",
+      "category_id": "38",
+      "category": "Root Vegetables",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1029/WhatsApp-Image-2026-08-16-at-3.10.36-PM-%282%29.jpg",
@@ -31214,7 +31228,7 @@
           "price": 42.0,
           "offer": 40.0,
           "group": null,
-          "stock": 1002.0
+          "stock": 1001.0
         }
       ]
     },
@@ -34614,8 +34628,8 @@
       "category_id": "35",
       "category": null,
       "unit": "KG",
-      "volume": "1",
-      "image": "https://sharedealnow.com/storage/1138/Atash-Standard_ShareDeal_App.jpg",
+      "volume": "100",
+      "image": "https://sharedealnow.com/storage/1150/Standard-Atash-Rice.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -34628,9 +34642,9 @@
         {
           "date": "2026-09-02",
           "price": 72.0,
-          "offer": 65.0,
-          "group": 60.0,
-          "stock": 0.0
+          "offer": 64.0,
+          "group": 59.0,
+          "stock": 993.0
         }
       ]
     },
@@ -34643,7 +34657,7 @@
       "category": "Khan Rice",
       "unit": "KG",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1137/Untrish-%28Haski%29_shareDeal_App.jpg",
+      "image": "https://sharedealnow.com/storage/1148/Premium-Untrish-%28Haski%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -34656,9 +34670,9 @@
         {
           "date": "2026-09-02",
           "price": 75.0,
-          "offer": 68.0,
-          "group": 63.0,
-          "stock": 0.0
+          "offer": 66.0,
+          "group": 61.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -34671,7 +34685,7 @@
       "category": null,
       "unit": "KG",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1136/Premium-Miniket.jpg",
+      "image": "https://sharedealnow.com/storage/1147/Premium-Miniket_Khan-Rice.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -34684,9 +34698,9 @@
         {
           "date": "2026-09-02",
           "price": 90.0,
-          "offer": 78.0,
-          "group": 72.0,
-          "stock": 0.0
+          "offer": 76.0,
+          "group": 71.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -34699,7 +34713,7 @@
       "category": null,
       "unit": "KG",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1135/Katari-Nazir-%28Standard%29_ShareDeal_APP.jpg",
+      "image": "https://sharedealnow.com/storage/1149/Standard-Katari-Nazir_Tamim-RIce.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -34712,9 +34726,9 @@
         {
           "date": "2026-09-02",
           "price": 85.0,
-          "offer": 78.0,
-          "group": 72.0,
-          "stock": 0.0
+          "offer": 74.0,
+          "group": 69.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -34727,7 +34741,7 @@
       "category": "Khan Rice",
       "unit": "KG",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1134/Katari-Nazir-Premium_Image_ShareDeal_App.jpg",
+      "image": "https://sharedealnow.com/storage/1146/Premium-Katari-Nazir.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -34740,9 +34754,9 @@
         {
           "date": "2026-09-02",
           "price": 90.0,
-          "offer": 85.0,
-          "group": 79.0,
-          "stock": 0.0
+          "offer": 80.0,
+          "group": 77.0,
+          "stock": 1000.0
         }
       ]
     }
