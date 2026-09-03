@@ -575,7 +575,7 @@
         "price": 90.0,
         "offer": 76.0,
         "group": 65.0,
-        "stock": 956.0
+        "stock": 944.0
       }
     ]
   },
@@ -596,7 +596,7 @@
         "price": 65.0,
         "offer": 50.0,
         "group": 45.0,
-        "stock": 1115.0
+        "stock": 1091.0
       }
     ]
   },
@@ -701,14 +701,14 @@
         "price": 32.0,
         "offer": 26.0,
         "group": 20.0,
-        "stock": 1044.0
+        "stock": 1039.0
       }
     ]
   },
   "474": {
     "id": 474,
-    "name": "Pulao Rice [Local Premium]",
-    "slug": "pulao-rice-local-premium",
+    "name": "Pulao Rice [Local Standard]",
+    "slug": "pulao-rice-local-standard",
     "sku": "W6mML5CN",
     "category_id": "5",
     "category": null,
@@ -1811,7 +1811,7 @@
     "name": "Pran Mr. Noodles Magic Masala 992gm",
     "slug": "pran-mr-noodles-magic-masala-992gm",
     "sku": "x0THfBJj",
-    "category_id": "5",
+    "category_id": "23",
     "category": null,
     "unit": "Piece",
     "volume": "1",
@@ -1832,7 +1832,7 @@
     "name": "Doodles Stick Noodles 150(±)25gm",
     "slug": "doodles-stick-noodles-15025gm",
     "sku": "hDaBK2Yp",
-    "category_id": "5",
+    "category_id": "23",
     "category": null,
     "unit": "Piece",
     "volume": "1",
@@ -2508,7 +2508,7 @@
         "price": 975.0,
         "offer": 974.0,
         "group": 970.0,
-        "stock": 1007.0
+        "stock": 1005.0
       }
     ]
   },
@@ -3165,10 +3165,10 @@
     "name": "Almond (বাদাম)",
     "slug": "almond-badam",
     "sku": "nHI7iT5y",
-    "category_id": "31",
+    "category_id": "40",
     "category": null,
     "unit": "KG",
-    "volume": null,
+    "volume": "1",
     "image": "https://sharedealnow.com/storage/341/1000044370.png",
     "best_selling": null,
     "history": [
@@ -3183,13 +3183,13 @@
   },
   "265": {
     "id": 265,
-    "name": "Pistachio Nut (পিস্তাস বাদাম)",
-    "slug": "pistachio-nut-pistas-badam",
+    "name": "Pistachio Nut (পেস্তা বাদাম)",
+    "slug": "pistachio-nut-pesta-badam",
     "sku": "q3euISzB",
-    "category_id": "31",
+    "category_id": "40",
     "category": null,
     "unit": "KG",
-    "volume": null,
+    "volume": "1",
     "image": "https://sharedealnow.com/storage/340/1000044369.png",
     "best_selling": null,
     "history": [
@@ -3207,10 +3207,10 @@
     "name": "Cashew Nut (কাজু বাদাম)",
     "slug": "cashew-nut-kaju-badam",
     "sku": "MrP60Vli",
-    "category_id": "31",
+    "category_id": "40",
     "category": null,
     "unit": "KG",
-    "volume": null,
+    "volume": "1",
     "image": "https://sharedealnow.com/storage/339/1000044368.png",
     "best_selling": null,
     "history": [
