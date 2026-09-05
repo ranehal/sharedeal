@@ -596,7 +596,7 @@
         "price": 65.0,
         "offer": 50.0,
         "group": 45.0,
-        "stock": 1091.0
+        "stock": 1086.0
       }
     ]
   },
@@ -701,7 +701,7 @@
         "price": 32.0,
         "offer": 26.0,
         "group": 20.0,
-        "stock": 1039.0
+        "stock": 1029.0
       }
     ]
   },
@@ -2117,7 +2117,7 @@
         "price": 205.0,
         "offer": 200.0,
         "group": null,
-        "stock": 1003.0
+        "stock": 1000.0
       }
     ]
   },
@@ -2508,7 +2508,7 @@
         "price": 975.0,
         "offer": 974.0,
         "group": 970.0,
-        "stock": 1005.0
+        "stock": 1004.0
       }
     ]
   },
@@ -5322,8 +5322,8 @@
   },
   "520": {
     "id": 520,
-    "name": "Premium Non-Polish atash by Khan Rice",
-    "slug": "premium-non-polish-atash-by-khan-rice",
+    "name": "Premium Atash Rice by Khan Rice (Natore)",
+    "slug": "premium-atash-rice-by-khan-rice-natore",
     "sku": "hZGqfA4e",
     "category_id": "35",
     "category": null,
@@ -5343,8 +5343,8 @@
   },
   "519": {
     "id": 519,
-    "name": "Premium Non-Polish Untrish (Haski) by Khan Rice",
-    "slug": "premium-non-polish-untrish-haski-by-khan-rice",
+    "name": "Premium Untrish (Haski Rice) by Khan Rice (Natore)",
+    "slug": "premium-untrish-haski-rice-by-khan-rice-natore",
     "sku": "Bjtw0WZC",
     "category_id": "35",
     "category": null,
@@ -5364,8 +5364,8 @@
   },
   "518": {
     "id": 518,
-    "name": "Premium Non-Polish Miniket by Khan Rice",
-    "slug": "premium-non-polish-miniket-by-khan-rice",
+    "name": "Premium Miniket by Khan Rice (Natore)",
+    "slug": "premium-miniket-by-khan-rice-natore",
     "sku": "D5NA9tNv",
     "category_id": "35",
     "category": null,
@@ -5385,8 +5385,8 @@
   },
   "517": {
     "id": 517,
-    "name": "Standard Non-Polish Katari Nazir by Tamim Rice",
-    "slug": "standard-non-polish-katari-nazir-by-tamim-rice",
+    "name": "Standard Katari Nazir by Tamim Rice (Natore)",
+    "slug": "standard-katari-nazir-by-tamim-rice-natore",
     "sku": "Jiu5n9HP",
     "category_id": "35",
     "category": null,
@@ -5406,8 +5406,8 @@
   },
   "516": {
     "id": 516,
-    "name": "Premium Non-Polish Katari Nazir by Khan Rice",
-    "slug": "premium-non-polish-katari-nazir-by-khan-rice",
+    "name": "Premium Katari Nazir by Khan Rice (Natore)",
+    "slug": "premium-katari-nazir-by-khan-rice-natore",
     "sku": "pTQuYG4M",
     "category_id": "35",
     "category": null,
